@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "Gucci",
+    "category": "Women's Fashion",
+    "color": "White",
+    "product_id": "579",
+    "product_name": "Shoes",
+    "rating": 3.1845451162452174,
+    "size": "XL",
+    "user_id": "123"
+  },
+  {
+    "brand": "Adidas",
+    "category": "Men's Fashion",
+    "color": "White",
+    "product_id": "731",
+    "product_name": "Sweater",
+    "rating": 3.1765092595598845,
+    "size": "XL",
+    "user_id": "123"
+  },
+  {
+    "brand": "Zara",
+    "category": "Men's Fashion",
+    "color": "Blue",
+    "product_id": "418",
+    "product_name": "Jeans",
+    "rating": 3.1747262400417062,
+    "size": "S",
+    "user_id": "123"
+  },
+  {
+    "brand": "Gucci",
+    "category": "Kids' Fashion",
+    "color": "Black",
+    "product_id": "966",
+    "product_name": "Jeans",
+    "rating": 3.1739928163639406,
+    "size": "S",
+    "user_id": "123"
+  },
+  {
+    "brand": "Nike",
+    "category": "Men's Fashion",
+    "color": "Green",
+    "product_id": "152",
+    "product_name": "Jeans",
+    "rating": 3.1679554741073104,
+    "size": "S",
+    "user_id": "123"
+  },
+  {
+    "brand": "Zara",
+    "category": "Women's Fashion",
+    "color": "Black",
+    "product_id": "199",
+    "product_name": "T-shirt",
+    "rating": 3.166863800988568,
+    "size": "M",
+    "user_id": "123"
+  },
+  {
+    "brand": "Gucci",
+    "category": "Women's Fashion",
+    "color": "Yellow",
+    "product_id": "29",
+    "product_name": "Shoes",
+    "rating": 3.1661448262012613,
+    "size": "M",
+    "user_id": "123"
+  },
+  {
+    "brand": "Gucci",
+    "category": "Women's Fashion",
+    "color": "White",
+    "product_id": "143",
+    "product_name": "Shoes",
+    "rating": 3.1652931818798846,
+    "size": "L",
+    "user_id": "123"
+  },
+  {
+    "brand": "H&M",
+    "category": "Kids' Fashion",
+    "color": "Blue",
+    "product_id": "980",
+    "product_name": "T-shirt",
+    "rating": 3.163918862562563,
+    "size": "XL",
+    "user_id": "123"
+  },
+  {
+    "brand": "Adidas",
+    "category": "Kids' Fashion",
+    "color": "Green",
+    "product_id": "704",
+    "product_name": "T-shirt",
+    "rating": 3.1634479638598276,
+    "size": "M",
+    "user_id": "123"
+  }
+]
